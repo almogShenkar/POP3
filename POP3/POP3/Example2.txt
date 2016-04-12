@@ -1,0 +1,7 @@
+#USERNAME : user123@gmail.com, PASSWORD : 123456
+user@gmail.com, 123456
+
+#MailId:1,from:yoni80@gmail.com,to: user123@gmail.com,receivedDate: 01012013230535 
+1, alla@gmail.com, aloni1907@gmail.com, 01012013230535, this is the first message
+2, alla@gmail.com, aloni1907@gmail.com, 01012013230535, ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3, alla@gmail.com, aloni1907@gmail.com, 01012013230535, this is the last message

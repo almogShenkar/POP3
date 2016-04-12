@@ -1,0 +1,12 @@
+#USERNAME : almog@gmail.com, PASSWORD : 123456
+almog@gmail.com, 123456
+
+1, haim@gmail.com, menashe@gmail.com, 01012013230535 , this is the third message
+2, dubi@gmail.com, ziv@gmail.com, 01012013230535, this is the 4 message
+3, oleg@gmail.com, olga@gmail.com, 01012013230535,this is the 5 message
+4, ofra@gmail.com, dina@gmail.com, 01012013230535, this is the 6 message
+5, dafna@gmail.com, natasha@gmail.com, 01012013230535, this is the 7 message
+6, dana@gmail.com, zeta@gmail.com, 01012013230535, this is the 8 message
+7, buaz@gmail.com, sveta@gmail.com, 01012013230535, this is the 9 message
+8, ofronit@gmail.com, li@gmail.com, 01012013230535, this is the 10 message
+9, ofri@gmail.com, zina@gmail.com, 01012013230535, this is the 11 message
